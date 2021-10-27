@@ -26,7 +26,7 @@ export default class Tour extends Component {
                         </span>
                     </h5>
                     <p>
-                    while we probably can come up with a better name for this mixin than desktop
+                    while we probably can come up with a better name.
                     </p>
                 </div>
             </article>
